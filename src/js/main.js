@@ -1,4 +1,4 @@
-import '../scss/main.scss'; // No modification is possible without a selected code snippet.
+import '../scss/main.scss';
 
 // components
 import { useTheme } from './components/theme.js';
